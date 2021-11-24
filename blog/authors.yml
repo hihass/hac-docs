@@ -1,0 +1,17 @@
+hihass:
+  name: HiHass
+  title: HAC社区维护者
+  url: https://github.com/HomeIntelligentCube
+  image_url: https://github.com/HomeIntelligentCube.png
+
+icube:
+  name: iCube
+  title: HAC社区主要贡献者
+  url: https://github.com/AI-Cube
+  image_url: https://github.com/AI-Cube.png
+
+hicube:
+  name: HiCube
+  title: HAC社区支持者
+  url: https://github.com/HomeIntelligentCube
+  image_url: https://github.com/HomeIntelligentCube.png
