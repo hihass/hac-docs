@@ -43,10 +43,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'HAC社区',
+        title: 'HAC社区文档',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/hac_logo.svg',
+          src: 'img/hac_logo_re.svg',
         },
         items: [
           {
@@ -145,7 +145,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} HAC社区. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} HAC社区. Built with <a href="https://docusaurus.io/">Docusaurus</a>.`,
       },
       prism: {
         theme: lightCodeTheme,
