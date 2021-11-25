@@ -59,7 +59,7 @@ Home Assistant提供了四种不同的安装方式，下面两种方式是官方
 ### [Windows和macOS](win-macos-ha-installation.md)
 - [Home Assistant OS（VM）](win-macos-ha-installation#安装home-assistant-os)
 - [Home Assistant Container](win-macos-ha-installation.md#通过容器安装)
-- [Home Assistant Core](win-macos-ha-installation.md虚拟环境安装Core)
+- [Home Assistant Core](win-macos-ha-installation.md#虚拟环境安装Core)
 
 ### [Linux](linux-ha-installation.md)
 - [Home Assistant OS（VM）](linux-ha-installation.md#安装home-assistant-os)

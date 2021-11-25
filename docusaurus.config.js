@@ -145,7 +145,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} HAC社区. Built with <a href="https://docusaurus.io/">Docusaurus</a>.`,
+        copyright: `Copyright © ${new Date().getFullYear()} HAC社区. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
