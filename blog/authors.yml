@@ -2,7 +2,7 @@ hihass:
   name: HiHass
   title: HAC社区维护者
   url: https://github.com/HomeIntelligentCube
-  image_url: https://github.com/HomeIntelligentCube.png
+  image_url: https://github.com/hihass.png
 
 icube:
   name: iCube
@@ -14,4 +14,4 @@ hicube:
   name: HiCube
   title: HAC社区支持者
   url: https://github.com/HomeIntelligentCube
-  image_url: https://github.com/HomeIntelligentCube.png
+  image_url: https://github.com/hihass.png
