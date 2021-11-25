@@ -13,7 +13,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'HiCube',
+  organizationName: 'HAC',
   projectName: 'hac-docs',
 
   presets: [
@@ -24,13 +24,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+          editUrl: 'https://github.com/hihass/hac-docs/tree/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+            'https://github.com/hihass/hac-docs/tree/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -46,7 +46,7 @@ const config = {
         title: 'HAC社区',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/hac_logo.svg',
         },
         items: [
           {
@@ -67,7 +67,7 @@ const config = {
             position: 'left',
           },
           {
-            href: 'https://github.com/HomeIntelligentCube/hac-docs',
+            href: 'https://github.com/hihass/hac-docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -110,7 +110,7 @@ const config = {
               },
               {
                 label: 'HAC社区插件库',
-                href: 'https://github.com/HomeIntelligentCube/HAC-Addons',
+                href: 'https://github.com/hihass/hac-addons',
               },
             ],
           },
