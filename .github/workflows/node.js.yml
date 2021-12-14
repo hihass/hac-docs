@@ -35,3 +35,4 @@ jobs:
         server: s1.webhostcp.net
         username: docs@hihass.com
         password: ${{ secrets.HIHASS_DOCS_FTP_KEY }}
+        local-dir: ./build/
