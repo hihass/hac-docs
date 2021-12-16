@@ -32,7 +32,7 @@ jobs:
     - name: deploy
       uses: SamKirkland/FTP-Deploy-Action@4.2.0
       with:
-        server: ${{ secrets.HIHASS_DOCS_FTP_SERVEER }}
+        server: ${{ secrets.HIHASS_DOCS_FTP_SERVER }}
         username: ${{ secrets.HIHASS_DOCS_FTP_USER }}
         password: ${{ secrets.HIHASS_DOCS_FTP_KEY }}
         local-dir: ./build/
